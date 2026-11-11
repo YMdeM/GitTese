@@ -1,0 +1,19 @@
+# Microdados da PNAD Contínua baixados pelo script (dado público, grande)
+Dados/pnadc_cache/
+
+# Saídas geradas pelos scripts
+Resultados_*/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
